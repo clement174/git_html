@@ -2,3 +2,13 @@
     color: orange;
     background-color: blue;
 }
+
+.title {
+    color: red;
+    font-size: 130%;
+    font-weight: lighter;
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 10px 10px 10px 10px;
+    margin: 20px;
+}
